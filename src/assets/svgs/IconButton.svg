@@ -1,0 +1,6 @@
+<svg width="38" height="38" viewBox="0 0 38 38" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="11.6641" y="11.6641" width="5.5" height="5.5" rx="1" stroke="#2F2B3D" stroke-opacity="0.9" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="20.8359" y="11.6641" width="5.5" height="5.5" rx="1" stroke="#2F2B3D" stroke-opacity="0.9" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="11.6641" y="20.8359" width="5.5" height="5.5" rx="1" stroke="#2F2B3D" stroke-opacity="0.9" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M20.8359 22.8359C20.4217 22.8359 20.0859 23.1717 20.0859 23.5859C20.0859 24.0002 20.4217 24.3359 20.8359 24.3359V22.8359ZM26.3359 24.3359C26.7502 24.3359 27.0859 24.0002 27.0859 23.5859C27.0859 23.1717 26.7502 22.8359 26.3359 22.8359V24.3359ZM24.3359 20.8359C24.3359 20.4217 24.0002 20.0859 23.5859 20.0859C23.1717 20.0859 22.8359 20.4217 22.8359 20.8359H24.3359ZM22.8359 26.3359C22.8359 26.7502 23.1717 27.0859 23.5859 27.0859C24.0002 27.0859 24.3359 26.7502 24.3359 26.3359H22.8359ZM20.8359 24.3359H26.3359V22.8359H20.8359V24.3359ZM22.8359 20.8359V26.3359H24.3359V20.8359H22.8359Z" fill="#2F2B3D" fill-opacity="0.9"/>
+</svg>

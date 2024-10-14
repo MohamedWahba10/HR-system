@@ -1,0 +1,26 @@
+:root {
+    --primary-color: #007bb6;
+    --mui-palette-primary-lightOpacity: rgba(0, 123, 182, 0.5);
+    --mui-palette-primary-lighterOpacity: rgba(0, 123, 182, 0.3);
+    --mui-palette-secondary-main: #ff4081;
+    --mui-palette-error-main: #f44336;
+    --mui-palette-error-lightOpacity: rgba(244, 67, 54, 0.5);
+    --mui-palette-error-lighterOpacity: rgba(244, 67, 54, 0.3);
+    --mui-palette-warning-main: #ff9800;
+    --mui-palette-info-main: #2196f3;
+    --mui-palette-success-main: #4caf50;
+    --mui-palette-text-primary: #757575;
+    --mui-palette-text-secondary: #212121;
+    --mui-palette-text-disabled: #bdbdbd;
+    --mui-palette-action-active: rgba(0, 0, 0, 0.54);
+    --mui-palette-action-hover: rgba(0, 0, 0, 0.04);
+    --mui-palette-action-selected: rgba(0, 0, 0, 0.08);
+    --mui-palette-action-focus: rgba(0, 0, 0, 0.12);
+    --mui-palette-background-paper: #ffffff;
+    --mui-palette-background-default: #fafafa;
+    --mui-palette-customColors-chatBg: #f1f3f4;
+    --backdrop-color: rgba(0, 0, 0, 0.5);
+    --font-family-sans: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    --font-family-serif: 'Georgia', serif;
+    --font-family-mono: 'SFMono-Regular', Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;
+  }
